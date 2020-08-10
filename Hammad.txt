@@ -1,0 +1,3 @@
+Exercise: 2020-08-10 20:03:44.271742 ChestPress
+Exercise: 2020-08-10 20:04:55.761287 BenchPress
+Diet: 2020-08-10 20:05:10.299711 Mutton
